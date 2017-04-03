@@ -1,0 +1,10 @@
+{
+  "name": "safetynet",
+  "version": "1.0.0",
+  "description": "automatically republish messages to cloud pubsub from google cloud function failures",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT"
+}
